@@ -1,0 +1,6 @@
+bin/
+debug/
+release/
+.settings/
+target/
+test-output/
